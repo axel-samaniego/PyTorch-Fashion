@@ -10,6 +10,7 @@ Built a Neural Net to classify images of clothing into 5 categories:
 
 ### Packages Used:
 - PyTorch (torch, torchvision, torch.nn, etc)
+- os
 - Pandas
 - Numpy
 - Matplotlib.pyplot
